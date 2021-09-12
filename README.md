@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 👨‍💻 All of my projects are available at **[[My Repositories] https://github.com/kirtan18]**
+- 👨‍💻 All of my projects are available at **[[My Repositories] https://github.com/kirtan18**
 
 - 📫 How to reach me -**kirtanprajapati6602@gmail.com**
 
