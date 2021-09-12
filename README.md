@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<a href="https://github.com/kirtan18?tab=followers"><img src="https://img.shields.io/github/followers/kirtan18?label=Followers&style=social" alt="GitHub Badge"></a>
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -52,14 +53,11 @@
   <a href="https://github.com/kirtan18/github-readme-stats"><img alt="Kirtan 's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtan18&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  
 <br/>
 <br/>
 
 <a href="https://github.com/kirtan18/github-readme-activity-graph"><img alt="Kirtan 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtan18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
@@ -73,5 +71,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=kirtan18">
 </a>
-<a href="https://github.com/kirtan18?tab=followers"><img src="https://img.shields.io/github/followers/kirtan18?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
