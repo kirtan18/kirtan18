@@ -16,13 +16,6 @@
 
 - ⚡ Life fact - **Escaping From the Rat race to build My own Empire.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kirtan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/k_i_t_u_prajapati95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_t_u_prajapati95" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kirtanprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtanprajapati" height="30" width="40" /></a>
-</p>
-
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
@@ -64,24 +57,21 @@
 <br/>
 <br/>
 
-<a href="https://github.com/ankushbanik1/github-readme-activity-graph"><img alt="Ankush 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankushbanik1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/kirtan18/github-readme-activity-graph"><img alt="Kirtan 's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kirtan18&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/ankush-banik-240109173/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/ankushbanik123"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ai_lover_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
+<a href="https://linkedin.com/in/kirtan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan prajapati" height="30" width="40" /></a>
+<a href="https://instagram.com/k_i_t_u_prajapati95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_t_u_prajapati95" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kirtanprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtanprajapati" height="30" width="40" /></a>
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ankushbanik1">
+    <img src="https://komarev.com/ghpvc/?username=kirtan18">
 </a>
-<a href="https://github.com/ankushbanik1?tab=followers"><img src="https://img.shields.io/github/followers/ankushbanik1?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/kirtan18?tab=followers"><img src="https://img.shields.io/github/followers/kirtan18?label=Followers&style=social" alt="GitHub Badge"></a>
 
