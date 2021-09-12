@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kirtan18">
+</a>
 <a href="https://github.com/kirtan18?tab=followers"><img src="https://img.shields.io/github/followers/kirtan18?label=Followers&style=social" alt="GitHub Badge"></a>
+
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -67,9 +72,6 @@
 <a href="https://www.leetcode.com/kirtanprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtanprajapati" height="30" width="40" /></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=kirtan18">
-</a>
+
 
 
