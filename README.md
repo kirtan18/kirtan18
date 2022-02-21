@@ -62,7 +62,7 @@
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/kirtan prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kirtan prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/k_i_t_u_prajapati95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_t_u_prajapati95" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kirtan_._prajapati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k_i_t_u_prajapati95" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kirtanprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kirtanprajapati" height="30" width="40" /></a>
 </p>
 
